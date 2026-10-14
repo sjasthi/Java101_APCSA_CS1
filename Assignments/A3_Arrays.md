@@ -1,6 +1,6 @@
 # Assignment 3: ArrayExplorer Implementation
 
-**Course:** Sp25 CSCI 2001-51 Object Oriented Programming (CS1)  
+**Course:** CSCI 2001-51 Object Oriented Programming (CS1)  
 **Instructor email:** Siva.Jasthi@nhcc.edu  
 **Total points:** 25
 
