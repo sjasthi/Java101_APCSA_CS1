@@ -12,12 +12,6 @@ This project is inspired by Programming Assignment 9, “BankAccount and Savings
 
 Implement the five types specified below. The sixth file, [BankAccountTester.java](BankAccountTester.java), is supplied by the instructor and contains the `main()` method and weighted tests. No implementations of the five student types are provided.
 
-## How This Specification Updates the PDF
-
-The [original PDF](CS1_Bank_Final%20Project%20Specification.pdf) asks students to write a tester and gives two different grading breakdowns. For this version, use the supplied tester and the single 80-point rubric below. There are no separate points for writing a tester or submitting its output; submitting the output and following coding standards remain required.
-
-The PDF does not specify constructors, accessors, bank method names, interest-rate units, or fee-processing order. The contracts below clarify those details so every student implementation can run against the same tester. This Markdown specification governs those details for this version of the assignment.
-
 ## Files and Required Public API
 
 Use the exact names, capitalization, parameter types, and return types shown below. Put each public type in its matching `.java` file. Use the default package: **do not add a `package` declaration**. You may add private or protected helpers, but they are not separate scored methods.
